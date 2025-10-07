@@ -4,7 +4,7 @@
 
 In this challenge, you need to intercept network communications between  10.0.18.7 @ dd:dd:dd:dd:dd:dd and 10.0.250.219 @ bb:bb:bb:bb:bb:bb. Once the attack is succesful, intercept the TCP communications sent to your host via eth0 on port 34199.
 
-
+```
 
                                    /\
                               /\  //\\
@@ -21,6 +21,8 @@ In this challenge, you need to intercept network communications between  10.0.18
  / ^   ^   ^    ^  ||___|___||||||||||||___|__|||          | |           |
 / ^ ^ ^  ^  ^  ^   ||||||||||||||||||||||||||||||oooooooooo| |ooooooo  |
 ooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
+
+```
 
 # EOF /challenge/README.md 
 ===== Welcome to Intercepting Communication! =====
