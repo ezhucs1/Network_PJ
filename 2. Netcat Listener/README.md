@@ -31,3 +31,5 @@ If you listen on port 40509 someone will give you a flag.
 In this series of challenges, you will be working within a virtual network in order to intercept networked traffic.
 In this challenge you will listen for a connection from a remote host.
 You should listen on port `40509`.
+
+Note: the IP addr and MAC addr are randomly generated, this excerce is practiced under protected and safe enviorment
