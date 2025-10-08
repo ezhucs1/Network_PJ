@@ -31,3 +31,5 @@ In this series of challenges, you will be working within a virtual network in or
 In this challenge you will manually send an Address Resolution Protocol packet.
 The packet should have `ARP op=is-at` and correctly inform the remote host of where the sender can be found.
 The packet should be sent to the remote host at `10.0.245.218`  @ `b4:68:19:be:f9:78`.
+
+Note: the IP addr and MAC addr are randomly generated, this excerce is practiced under protected and safe enviorment
