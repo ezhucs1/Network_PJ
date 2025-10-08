@@ -28,3 +28,6 @@ The target network is 3.13.37.0/24
 ```
 
 # EOF /challenge/README.md
+
+
+Note: the IP addr and MAC addr are randomly generated, this excerce is practiced under protected and safe enviorment
