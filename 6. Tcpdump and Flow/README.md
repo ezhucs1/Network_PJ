@@ -1,4 +1,4 @@
-## TCP Flow] 
+## TCP Flow
 
 The communication is already occurring in the background. 
 
@@ -27,7 +27,7 @@ The target network is 3.13.37.0/24
 
 ```
 
-# EOF /challenge/README.md
+EOF /challenge/README.md
 
 
 Note: the IP addr and MAC addr are randomly generated, this excerce is practiced under protected and safe enviorment
