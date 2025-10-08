@@ -21,3 +21,5 @@ Run the tcpdump command and listen on port 33116 to intercept the communication 
 In this series of challenges, you will be working within a virtual network in order to intercept networked traffic.
 In this challenge you will monitor traffic from a remote host.
 Your host is already receiving traffic on port `33116`.
+
+Note: the IP addr and MAC addr are randomly generated, this excerce is practiced under protected and safe enviorment
