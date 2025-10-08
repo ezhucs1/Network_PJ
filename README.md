@@ -6,64 +6,64 @@ This repository contains hands-on implementations of various network security to
 
 # Tools & Scripts
 1. TCP Handshake Analysis
-  Concept: TCP/IP Protocol Analysis & Network Reconnaissance
-  
-  Technique: Demonstrates the TCP three-way handshake (SYN, SYN-ACK, ACK) and various scanning techniques
-  
-  Key Skills:
-  
-  Raw socket programming
-  
-  TCP flag manipulation (SYN, ACK, RST)
-  
-  Port state detection (Open/Closed/Filtered)
-  
-  Network reconnaissance methodology
+    Concept: TCP/IP Protocol Analysis & Network Reconnaissance
+    
+    Technique: Demonstrates the TCP three-way handshake (SYN, SYN-ACK, ACK) and various scanning techniques
+    
+    Key Skills:
+    
+    Raw socket programming
+    
+    TCP flag manipulation (SYN, ACK, RST)
+    
+    Port state detection (Open/Closed/Filtered)
+    
+    Network reconnaissance methodology
 
 2. ARP Spoofer / Man-in-the-Middle
-  Concept: Layer 2 Attack & Network Interception
-  
-  Technique: Implements ARP cache poisoning to redirect traffic through an attacker's machine
-  
-  Key Skills:
-  
-  ARP protocol manipulation
-  
-  Man-in-the-Middle (MITM) attack implementation
-  
-  Network traffic interception
-  
-  Packet forwarding and manipulation
+    Concept: Layer 2 Attack & Network Interception
+    
+    Technique: Implements ARP cache poisoning to redirect traffic through an attacker's machine
+    
+    Key Skills:
+    
+    ARP protocol manipulation
+    
+    Man-in-the-Middle (MITM) attack implementation
+    
+    Network traffic interception
+    
+    Packet forwarding and manipulation
 
 3. Packet Sniffer & Analyzer
-  Concept: Network Traffic Analysis & Forensics
-  
-  Technique: Captures and analyzes network packets in real-time, extracting sensitive information
-  
-  Key Skills:
-  
-  Deep packet inspection
-  
-  Protocol analysis (HTTP, DNS, TCP, UDP)
-  
-  Credential harvesting from unencrypted traffic
-  
-  Network forensics fundamentals
+    Concept: Network Traffic Analysis & Forensics
+    
+    Technique: Captures and analyzes network packets in real-time, extracting sensitive information
+    
+    Key Skills:
+    
+    Deep packet inspection
+    
+    Protocol analysis (HTTP, DNS, TCP, UDP)
+    
+    Credential harvesting from unencrypted traffic
+    
+    Network forensics fundamentals
 
 4. Custom Port Scanner
-  Concept: Service Enumeration & Network Mapping
-  
-  Technique: Multiple scanning methods including TCP SYN, Connect, and UDP scanning
-  
-  Key Skills:
-  
-  Network reconnaissance
-  
-  Service discovery
-  
-  Banner grabbing
-  
-  Multithreading for performance
+    Concept: Service Enumeration & Network Mapping
+    
+    Technique: Multiple scanning methods including TCP SYN, Connect, and UDP scanning
+    
+    Key Skills:
+    
+    Network reconnaissance
+    
+    Service discovery
+    
+    Banner grabbing
+    
+    Multithreading for performance
 
 # Cybersecurity Concepts Demonstrated
 Network Attacks
