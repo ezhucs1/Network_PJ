@@ -38,3 +38,5 @@ In this series of challenges, you will be working within a virtual network in or
 In this challenge you will manually send an Ethernet frame.
 The frame should have `Ether type=0xFFFF`.
 The packet should be sent to the remote host at `10.0.20.205` @ `c4:19:1b:0f:56:c0`
+
+Note: the IP addr and MAC addr are randomly generated, this excerce is practiced under protected and safe enviorment
