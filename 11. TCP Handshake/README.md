@@ -35,3 +35,5 @@ In this series of challenges, you will be working within a virtual network in or
 In this challenge you will manually perform a Transmission Control Protocol handshake.
 The initial packet should have `TCP sport=45551, dport=24878, seq=668029990`.
 The handshake should occur with the remote host at `10.0.50.220`  @ `46:b2:69:10:cd:11`.
+
+Note: the IP addr and MAC addr are randomly generated, this excerce is practiced under protected and safe enviorment
