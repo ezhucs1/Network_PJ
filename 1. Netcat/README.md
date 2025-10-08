@@ -5,6 +5,7 @@ You just need to connect to a remote service.
 Then use netcat to connect on to the remote host at 10.0.234.12 on port 35542
 
 "I'm cruising down the Information Superhighway in high gear...
+```
   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
                                     _    ,
    __   __   __   __   __   --  -,_/\\_~0_\ ___    __   __   __
@@ -12,7 +13,7 @@ Then use netcat to connect on to the remote host at 10.0.234.12 on port 35542
                         ---    `"-( @ )----( @ )---`
                                    '-'      '-'
   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-
+```
 # EOF /challenge/README.md 
 ===== Welcome to Intercepting Communication! =====
 In this series of challenges, you will be working within a virtual network in order to intercept networked traffic.
