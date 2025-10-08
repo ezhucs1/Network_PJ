@@ -21,3 +21,5 @@ In this series of challenges, you will be working within a virtual network in or
 In this challenge you will manually send a Transmission Control Protocol packet.
 The packet should have `TCP sport=40188, dport=38884, seq=2102660698, ack=888364452, flags=APRSF`.
 The packet should be sent to the remote host at `10.0.182.250`.
+
+Note: the IP addr and MAC addr are randomly generated, this excerce is practiced under protected and safe enviorment
